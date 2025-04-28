@@ -1,8 +1,8 @@
 # CS-330-Comp_Graphic_and_Visualization
 
-# 3D Scene Project - Reflection
+## 3D Scene Project
 
-## How I Approach Designing and Developing Software
+### How I Approach Designing and Developing Software
 
 When I approach designing software, I like to first visualize the final product and break it down into smaller, manageable parts. For this project, I started with a simple scene containing a plane and a lollipop, then expanded by adding a book, a cup, a desk lamp, and textured backdrops. Working on this project helped me improve my skills in positioning 3D models accurately, scaling textures properly, and setting up realistic lighting. My design process was very iterative, I built a basic version first, then added more details in each milestone, often using guides and experimenting until I achieved the results I wanted. This tactic of starting simple and improving step-by-step helped me overcome challenges, and it is a strategy I plan to use in future projects as well.
 
