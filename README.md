@@ -1,1 +1,9 @@
 # CS-330-Comp_Graphic_and_Visualization
+
+# 3D Scene Project - Reflection
+
+## How I Approach Designing and Developing Software
+
+When I approach designing software, I like to first visualize the final product and break it down into smaller, manageable parts. For this project, I started with a simple scene containing a plane and a lollipop, then expanded by adding a book, a cup, a desk lamp, and textured backdrops. Working on this project helped me improve my skills in positioning 3D models accurately, scaling textures properly, and setting up realistic lighting. My design process was very iterative, I built a basic version first, then added more details in each milestone, often using guides and experimenting until I achieved the results I wanted. This tactic of starting simple and improving step-by-step helped me overcome challenges, and it is a strategy I plan to use in future projects as well.
+
+For development, I prefer starting with a working foundation and then adding features gradually. In this project, I used new strategies like adjusting the camera movement speed dynamically with the scroll wheel and carefully fine-tuning lighting angles and brightness. Iteration played a major role in my process, I constantly tested small changes and refined them. Over the milestones, my coding approach evolved from cautious trial-and-error to more confident, structured development. Computer science is helping me work toward my goal of becoming an excellent programmer and professional software engineer. Learning computational graphics and visualizations has given me valuable skills that I can apply in future educational projects, like building interactive websites, and in my professional career, where strong visual and technical skills are essential for creating modern, engaging digital experiences.
